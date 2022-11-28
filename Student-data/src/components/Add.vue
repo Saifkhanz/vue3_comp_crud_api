@@ -23,7 +23,7 @@ const addStudent = async () => {
    <div class="shadow-md pb-6">
       
       <div class="bg-indigo-600 p-4">
-         <h1 class="text-3xl font-bold text-center text-white">Add Student</h1>
+         <h1 class="text-3xl font-bold text-center text-white">ADD Student</h1>
       </div>
       <form @submit.prevent="addStudent">
       <div class="flex items-center m-6">
